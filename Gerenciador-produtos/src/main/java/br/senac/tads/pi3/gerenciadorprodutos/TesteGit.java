@@ -16,7 +16,8 @@ public class TesteGit {
      */
     public static void main(String[] args) {
         System.out.println("Teste Git");
-        System.out.println("MAKE nothing");
+        System.out.println("MAKE LOVE");
+        System.out.println("We don't do this here bitch");
     }
     
 }
